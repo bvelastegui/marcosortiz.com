@@ -1,0 +1,12 @@
+{
+  "name": "marcosortiz.com",
+  "version": "1.0.0",
+  "description": "personal web page",
+  "license": "proprietary",
+  "author": "Marcos Ortiz <mgs.ortizmarcos@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
